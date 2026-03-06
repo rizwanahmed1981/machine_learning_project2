@@ -60,8 +60,8 @@ runs/
 *.env
 
 # Configuration files with secrets
-config.yaml
-configs/
+# config.yaml
+# configs/
 *.secret
 
 # Data files
