@@ -67,7 +67,7 @@ runs/
 # Data files
 data/
 !data/.gitkeep
-*.csv
+# *.csv
 *.tsv
 *.parquet
 *.feather
